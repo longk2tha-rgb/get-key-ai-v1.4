@@ -1,0 +1,5 @@
+{
+  "name": "GET KEY AI V 1.4",
+  "description": "An application to access a specific AI service using a name and code for authentication. Users log in to view an embedded website and their profile information.",
+  "requestFramePermissions": []
+}
